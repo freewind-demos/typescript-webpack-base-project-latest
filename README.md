@@ -1,11 +1,9 @@
-TypeScript Webpack Base Project Lastest
+TypeScript Webpack Base Project Latest
 =======================================
 
-Always update with latest versions and technologies.
+Should always update with latest versions and technologies.
 
 ```
 npm install
 npm run dev
 ```
-
-![demo](./images/demo.jpg)
